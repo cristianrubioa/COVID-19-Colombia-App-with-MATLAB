@@ -20,7 +20,7 @@
 
 ## Captura
 
-- ![alt text](https://github.com/cristianrubioa/COVID-19-Colombia-App-with-MATLAB/blob/master/images/image_2.png?raw=true)
+![alt text](https://github.com/cristianrubioa/COVID-19-Colombia-App-with-MATLAB/blob/master/images/image_2.png?raw=true)
 
 ## Comenzando
 
@@ -30,5 +30,5 @@
 
 ## Autores
 
-- **Cristian F. Rubio Aguiar.** _ Estudiante de ingeniería electrónica desarrollador _ - [cristianrubioaguiar](https://www.linkedin.com/in/cristianrubioaguiar/)
-- **Jose A. Fernández Gallego.** _ Director y coordinador asociado al desarrollo del proyecto _ - [JoseFernandezGallego](https://www.researchgate.net/profile/Jose_Fernandez-Gallego)
+- **[Cristian F. Rubio Aguiar](https://www.linkedin.com/in/cristianrubioaguiar/)** - Estudiante de ingeniería electrónica desarrollador.
+- **[Jose A. Fernández Gallego](https://www.researchgate.net/profile/Jose_Fernandez-Gallego)** - Director y coordinador asociado al desarrollo del proyecto.
